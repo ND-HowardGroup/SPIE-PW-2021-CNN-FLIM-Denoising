@@ -18,7 +18,7 @@ Denoised Output Phasor: From Neural network:
 ![](Test_images/Phasor/imagePhasorHistogram_denoised.png)
 
 ## SPIE paper image segmentation: K-means clustering
-Noisy segments:
+Noisy segments: 2D Mouse Kidney shows the microtubules
 
 ![](Test_images/Segments/Noisy_Segments.png)
 
