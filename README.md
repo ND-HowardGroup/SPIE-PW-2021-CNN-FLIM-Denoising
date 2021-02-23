@@ -8,6 +8,25 @@ https://github.com/ND-HowardGroup/Instant-Image-Denoising
 https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
 
 
+## SPIE paper phasor images
+Noisy Input phasor:
+
+![]()
+
+Denoised Output Phasor: From Neural network: 
+
+![]()
+
+## SPIE paper image segmentation: K-means clustering
+Noisy segments:
+
+![]()
+
+Denoised segments:
+
+![]()
+
+
 ## **Copyright**
 
 © 2019 Varun Mannam, University of Notre Dame  
