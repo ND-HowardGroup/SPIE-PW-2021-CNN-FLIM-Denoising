@@ -10,7 +10,7 @@ https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
 
 ## **Copyright**
 
-© 2021 Varun Mannam, University of Notre Dame  
+© 2019 Varun Mannam, University of Notre Dame  
 
 ## **License**
 
