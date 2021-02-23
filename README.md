@@ -14,4 +14,4 @@ https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
 
 ## **License**
 
-Licensed under the [GPL](https://github.com/ND-HowardGroup/)
+Licensed under the [GPL](https://github.com/ND-HowardGroup/SPIE-CNN-FLIM-Denoising/blob/main/LICENSE)
