@@ -11,20 +11,20 @@ https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
 ## SPIE paper phasor images
 Noisy Input phasor: 3D zebrafish sample
 
-![](Test images/Phasor/imagePhasorHistogram.png)
+![](Test_images/Phasor/imagePhasorHistogram.png)
 
 Denoised Output Phasor: From Neural network: 
 
-![](Test images/Phasor/imagePhasorHistogram_denoised.png)
+![](Test_images/Phasor/imagePhasorHistogram_denoised.png)
 
 ## SPIE paper image segmentation: K-means clustering
 Noisy segments:
 
-![](Test images/Segments/Noisy_Segments.png)
+![](Test_images/Segments/Noisy_Segments.png)
 
 Denoised segments:
 
-![](Test images/Segments/Denosied_Segments.png)
+![](Test_images/Segments/Denosied_Segments.png)
 
 
 ## **Copyright**
