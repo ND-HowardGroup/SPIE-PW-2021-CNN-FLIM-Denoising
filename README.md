@@ -28,9 +28,9 @@ Denoised segments:
 
 
 ## Dataset:
-#Images: The testing dataset of BAPE sample images can be downloaded from here https://curate.nd.edu/show/mw22v40954f
+#Images: The testing dataset of Zebrafish and mouse kidney images are given in this folder and for the BAPE sample images can be downloaded from here https://curate.nd.edu/show/mw22v40954f
 
-#Citation for dataset: Please cite the LFI dataset using the following format: Mannam, Varun. 2020. “Fluorescence Microscopy Lifetime Denoising (FMLD) Dataset.” Notre Dame. https://doi.org/10.7274/r0-18da-9m58.
+#Citation for dataset: Please cite the Fluorescence Microscopy Lifetime Denoising (FMLD) dataset using the following format: Mannam, Varun. 2020. “Fluorescence Microscopy Lifetime Denoising (FMLD) Dataset.” Notre Dame. https://doi.org/10.7274/r0-18da-9m58.
 
 
 ## **Copyright**
