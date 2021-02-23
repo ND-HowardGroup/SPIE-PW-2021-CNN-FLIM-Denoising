@@ -6,3 +6,12 @@ https://github.com/ND-HowardGroup/Instant-Image-Denoising
 
 #For K-means segmentation: 
 https://github.com/ND-HowardGroup/Kmeans-FLIM-Phasors
+
+
+## **Copyright**
+
+© 2021 Varun Mannam, University of Notre Dame  
+
+## **License**
+
+Licensed under the [GPL](https://github.com/ND-HowardGroup/)
